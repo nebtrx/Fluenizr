@@ -1,0 +1,14 @@
+syntax: glob
+*.nupkg
+nuget/temp
+*.user
+*.suo
+*.xap
+packages
+nuget/push.cmd
+glob:Binaries
+glob:obj
+glob:bin
+glob:Bin
+glob:.vs
+glob:_ReSharper.Fluenizr/
