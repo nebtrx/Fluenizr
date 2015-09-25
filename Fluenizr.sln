@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluenizr", "Fluenizr\Fluenizr.csproj", "{1448D41F-BFB6-4933-9224-FF4E5D1B0637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluenizr.Tests", "Fluenizr.Tests\Fluenizr.Tests.csproj", "{4CA6A41A-BBBB-4B94-A54A-290C66ED96B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluenizr.Sample", "Fluenizr.Sample\Fluenizr.Sample.csproj", "{45AD2A75-489C-435F-A235-4297B05A525B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1448D41F-BFB6-4933-9224-FF4E5D1B0637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1448D41F-BFB6-4933-9224-FF4E5D1B0637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1448D41F-BFB6-4933-9224-FF4E5D1B0637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1448D41F-BFB6-4933-9224-FF4E5D1B0637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA6A41A-BBBB-4B94-A54A-290C66ED96B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA6A41A-BBBB-4B94-A54A-290C66ED96B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA6A41A-BBBB-4B94-A54A-290C66ED96B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA6A41A-BBBB-4B94-A54A-290C66ED96B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AD2A75-489C-435F-A235-4297B05A525B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AD2A75-489C-435F-A235-4297B05A525B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AD2A75-489C-435F-A235-4297B05A525B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AD2A75-489C-435F-A235-4297B05A525B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
